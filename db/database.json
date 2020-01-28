@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "artcode": "PRD001",
+      "name": "Product 1",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "artcode": "PRD002",
+      "name": "Product 2",
+      "price": 150
+    },
+    {
+      "id": 3,
+      "artcode": "PRD003",
+      "name": "Product 3",
+      "price": 180
+    },
+    {
+      "id": 4,
+      "artcode": "PRD004",
+      "name": "Product 4",
+      "price": 60
+    },
+    {
+      "id": 5,
+      "artcode": "PRD005",
+      "name": "Product 5",
+      "price": 760
+    },
+    {
+      "id": 6,
+      "artcode": "PRD006",
+      "name": "Product 6",
+      "price": 310
+    },
+    {
+      "id": 7,
+      "artcode": "PRD007",
+      "name": "Product 7",
+      "price": 220
+    },
+    {
+      "id": 8,
+      "artcode": "PRD008",
+      "name": "Product 8",
+      "price": 190
+    },
+    {
+      "id": 9,
+      "artcode": "PRD009",
+      "name": "Product 9",
+      "price": 49
+    },
+    {
+      "id": 10,
+      "artcode": "PRD010",
+      "name": "Product 10",
+      "price": 129.99
+    }
+  ],
+  "carts": [
+    {
+      "cart": "hK6CpEvE",
+      "content": [
+        {
+          "id": "l6Ip1ozt",
+          "qty": 1,
+          "product": "PRD001",
+          "artId": 1,
+          "name": "Product 1",
+          "price": 120
+        },
+        {
+          "id": "piaphQcY",
+          "qty": 1,
+          "product": "PRD010",
+          "artId": 10,
+          "name": "Product 10",
+          "price": 129.99
+        }
+      ]
+    }
+  ]
+}
