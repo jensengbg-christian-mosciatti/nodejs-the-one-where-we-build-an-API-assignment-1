@@ -3,8 +3,8 @@ Basic NodeJs App to handle lines in the shopping cart of an e-commerce web site
 Endpoints
 
 -- New Shopping cart
-/api/cart 
-POST 
+/api/cart
+POST
 body: {
     "newCart" : true
  } 
